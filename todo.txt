@@ -1,0 +1,5 @@
+.|todo|
+O|pending|mouad id
+!|stopped|toto
+✓|finish|
+#|complete|toto
